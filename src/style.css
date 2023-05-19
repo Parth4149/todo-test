@@ -104,7 +104,7 @@
   cursor: pointer;
 }
 .settings .task-menu {
-  z-index: 10;
+  z-index: 5;
   right: -0.5rem;
   bottom: 0;
   padding: 5px 0;
@@ -143,11 +143,10 @@
   .todo__container {
     width: 100%;
   }
-  .todo-form  {
+  .todo-form {
     width: 90%;
   }
 }
-
 
 #modal {
   background-color: rgba(51, 50, 50, 0.522);
